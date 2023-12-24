@@ -1,1 +1,1 @@
-Programm for calculation deposit
+Program for calculation deposit
